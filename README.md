@@ -5,4 +5,7 @@ Steps to run this project:
 1. Run `npm i` command
 2. Setup database settings inside `ormconfig.json` file 
 3. Run `npm start` command
-4. Port Test: http://localhost:3000/ 
+4. Port Test: http://localhost:3000/
+
+Steps created database
+1. Run files in folder dbscript with mysql
